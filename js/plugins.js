@@ -1,9 +1,3 @@
-/*
- * Copyright (c) 2021 Marketify
- * Author: Marketify
- * This file is made for CURRENT TEMPLATE
-*/
-
 /*! 
 Name: jQuery grouploop plugin
 Verison: 1.0.3
