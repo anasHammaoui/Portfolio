@@ -1863,12 +1863,12 @@ h6 { font-size: 16px; }
 .anas_tm_contact .short_info ul{
 	margin: 0px 0px 0px -50px;
 	list-style-type: none;
+	padding-left:30px
 }
 .anas_tm_contact .short_info ul li{
 	margin: 0px 0px 50px 0px;
 	width: 33.3333%;
 	float: left;
-	padding-left: 50px;
 }
 .anas_tm_contact .short_info ul li .list_inner{
 	width: 100%;
